@@ -1,2 +1,9 @@
-# csd-340
-Repository for HTML and CSS 340
+#CSD 340 Web Development with HTML and CSS
+
+##Contributors
+
+* Professor Chris Soriano
+* Andrew McCloud
+
+
+
