@@ -1,0 +1,81 @@
+h1{
+
+    text-align: center;
+    font-family: Oswald, Verdana, Arial, sans-serif;
+
+}
+
+h3{
+
+    font-weight: 500;
+    padding-left: 10px;
+
+}
+
+ul{
+
+    font-weight: 300;
+    padding: 10px;
+    padding-left: 20px;
+    list-style-type: upper-roman;
+    margin-left: 0;
+}
+
+ol{
+
+    font-weight: 300;
+    padding: 10px;
+    padding-left: 20px;
+
+}
+
+title{
+
+    font-family: Oswald, Verdana, Arial, sans-serif;
+
+}
+
+.left-div{
+
+    float: left;
+    width: 45%;
+    border: 1px solid red;
+    border-radius: 15px;
+    list-style-position: inside;
+
+}
+
+.right-div{
+
+    float: right;
+    width: 45%;
+    border: 1px dashed red;
+    border-radius: 15px;
+    list-style-position: inside;
+}
+
+.last-div{
+
+    width: 100%;
+    margin-top: 60%;
+
+}
+
+.last-div a{
+
+    float: right;
+    margin-bottom: 20px;
+
+}
+
+a{
+
+    text-decoration: none;
+
+}
+
+a:hover{
+
+    text-decoration: underline;
+
+}
