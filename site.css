@@ -1,63 +1,75 @@
-body{
+body {
 
     font-family: Oswald, Verdana, Arial, sans-serif;
 
 }
 
-#container{
+#container {
 
-    margin-top: 50px;
     margin-left: 100px;
     margin-right: 100px;
+    margin-top: 50px;
 
 }
 
-h1{
+h1 {
 
     background-color: #3C275a;
-    color: #fff;
     border: 1px solid #D6A800;
+    color: #fff;
     padding: 10px;
 
 }
 
-h2{
+h2 {
 
     background-color: #3C275a;
-    color: #fff;
     border: 1px solid #D6A800;
+    color: #fff;
     padding: 10px;
 
 }
 
-h3{
+h3 {
 
     background-color: #3C275a;
-    color: #fff;
     border: 1px solid #D6A800;
+    color: #fff;
     padding: 10px;
 
 }
 
-h4{
+h4 {
 
     background-color: #3C275a;
-    color: #fff;
     border: 1px solid #D6A800;
+    color: #fff;
     padding: 10px;
 
 }
 
-.anchors a{
+.anchors a {
 
     color: #453674;
     text-decoration: none;
 
 }
 
-.anchors a:hover{
+.anchors a:hover {
 
     background-color: #D6A800;
     color: #4F3674;
+
+}
+
+.anchors a:visited {
+
+    color: #3C275a;
+
+}
+
+a {
+
+    text-decoration: none;
 
 }
