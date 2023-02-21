@@ -1,0 +1,138 @@
+footer{
+
+    background-color: #8a211d;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+
+}
+
+footer a{
+
+    color: white;
+    text-decoration: none;
+
+}
+
+footer a:hover{
+
+    text-decoration: underline;
+
+}
+
+footer p{
+
+    color: white;
+    float: right;
+    font-style: italic;
+    font-weight: 400;
+    padding-right: 10px;
+
+}
+
+header{
+
+    background-color: #8a211d;
+    color: white;
+    padding: 20px;
+    text-align: center;
+
+}
+
+h1{
+
+    font-weight: 400;
+
+}
+
+.card{
+
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 50%;
+
+}
+
+.card:hover{
+
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+
+.card-content{
+
+    padding: 2px 16px;
+
+}
+
+.card-title{
+
+    color: #8a211d;
+    font-size: 2em;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+#container{
+
+    margin: 2% 5% 100px 5%;
+
+}
+
+.link{
+
+    float: left;
+
+}
+
+#movies{
+
+    margin-bottom: 30px;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+#movies td{
+
+    border: 1px solid #ddd;
+    padding: 8px;
+
+}
+
+#movies th{
+
+    padding-bottom: 12px;
+    padding-top: 12px;
+    text-align: left;
+
+}
+
+#navbar{
+
+    background-color: #8a211d;
+    border-bottom: solid 15px #656565;
+    overflow: hidden;
+
+}
+
+#navbar a{
+
+    color: white;
+    display: block;
+    float: left;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+#navbar a:hover{
+
+    background-color: black;
+    color: #8a211d;
+
+}
+
