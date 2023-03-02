@@ -1,6 +1,22 @@
-.card{
+img {
 
-    
+    width: 300px;
+    height: 400px;
+
+}
+
+.column{
+
+    float: left;
+    width: 33.33%;
+
+}
+
+.hobbies:after{
+
+    content: "";
+    display: table;
+    clear: both;
 
 }
 
