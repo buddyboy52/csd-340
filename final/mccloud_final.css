@@ -1,3 +1,8 @@
+body{
+
+    margin: 0px;
+
+}
 
 footer{
 
@@ -20,7 +25,7 @@ footer p{
     color: white;
     float: right;
     font-weight: 400;
-    padding-right: 10px;
+    padding-right: 20px;
 
 }
 
@@ -29,8 +34,8 @@ header{
     background-color: #8a211d;
     border-bottom: solid 15px #656565;
     color: white;
-    padding: 10px;
     text-align: center;
+    width: 100%;
 
 }
 
@@ -58,7 +63,7 @@ img {
 
 .card:hover{
 
-    box-shadow: 0 16px 32px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 
 }
 
@@ -75,9 +80,38 @@ img {
 
 }
 
+.contact{
+
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+
+}
+
 .link{
 
     float: left;
+    padding-left: 10px;
+
+}
+
+.surprise{
+
+    background-color: black;
+    color: white;
+    border-color: 2px solid #8a211d;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.surprise a{
+
+    color: white;
+    text-decoration: none;
 
 }
 
@@ -94,6 +128,37 @@ img {
     column-gap: 20px;
     display: flex;
     text-align: center;
+
+}
+
+input[type=text], select, textarea{
+
+    padding: 12px;
+    border: 1px solid #656565;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: grid;
+    justify-content: center;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+
+}
+
+input[type=submit]{
+
+    background-color: black;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+input[type=submit]:hover{
+
+    background-color: #8a211d;
 
 }
 
